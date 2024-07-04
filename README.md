@@ -1,3 +1,4 @@
+Temp fork: just for shuuji3/pico:chore/use-inline branch for myself
 <p>
   <a href="https://picocss.com" target="_blank">
     <picture>
